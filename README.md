@@ -3,7 +3,7 @@ An implementation of Forth in the Charm scripting language.
 
 I’ve followed the spec for Forth I found on this webpage. https://skilldrick.github.io/easyforth/ , except for keyboard input.
 
-ex backtick <forth code> backtick will execute the given code.
+ex backtick forth code backtick will execute the given code.
 
 You should use backtick quotes so you don’t have to escape " for Forth.
 
