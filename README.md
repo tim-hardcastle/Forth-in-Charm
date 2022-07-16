@@ -13,6 +13,6 @@ Similarly clear followed by any of those things will set it to its original stat
 
 Note 1 : show code will only return a non-empty list if execution has failed with an error, in which case it will contain the unexecuted code.
 
-Note 3 : similarly show loopVar will always return NIL: it has an integer value only during the execution of a loop.
+Note 2 : similarly show loopVar will always return NIL: it has an integer value only during the execution of a loop.
 
 Note 3 : clear defs will still leave the built in definitions of ? and +!
