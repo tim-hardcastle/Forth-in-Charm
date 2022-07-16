@@ -7,7 +7,7 @@ ex backtick forth code backtick will execute the given code.
 
 You should use backtick quotes so you don’t have to escape " for Forth.
 
-show followed by either code, stack, mem, vars, consts, defs, output, error, and loopVar will show the relevant aspect of the state of the Forth machine: show all will show all the fields.
+show followed by either code, stack, mem, vars, consts, defs, output, error, and loopVar will show the relevant aspect of the state of the Forth machine: showall will show all the fields.
 
 Similarly clear followed by any of those things will set it to its original state, and clearall will reset the Forth machine entirely.
 
